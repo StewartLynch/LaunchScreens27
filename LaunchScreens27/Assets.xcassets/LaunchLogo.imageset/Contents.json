@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "AppIcon-iOS-Default-64@2x.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "AppIcon-iOS-Dark-64@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

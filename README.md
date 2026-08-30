@@ -1,6 +1,6 @@
 # Launch Screens in iOS 27
 
-![AppIcon128](Images/AppIcon128.png) This is the **completed project for the StoryboardLaunchScreens brange** for the video on creating Launch Screens in iOS 27
+![AppIcon128](Images/AppIcon128.png) This is the **completed project for the UILaunchScreen branch** for the video on creating Launch Screens in iOS 27
 
 If you want to support my work, you can - </br>
 
