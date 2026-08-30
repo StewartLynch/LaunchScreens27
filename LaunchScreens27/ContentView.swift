@@ -26,7 +26,6 @@ struct ContentView: View {
                 .foregroundStyle(.indigo.gradient)
                 .navigationTitle("Launch Screens")
         }
-        .padding()
     }
 }
 
