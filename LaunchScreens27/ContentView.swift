@@ -19,12 +19,16 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationStack {
-            Image(systemName: "swift")
-                .resizable()
-                .scaledToFit()
-                .frame(width: 256)
-                .foregroundStyle(.indigo.gradient)
-                .navigationTitle("Launch Screens")
+            ZStack{
+                Color(.background)
+                    .ignoresSafeArea()
+                Image(systemName: "swift")
+                    .resizable()
+                    .scaledToFit()
+                    .frame(width: 256)
+                    .foregroundStyle(.indigo.gradient)
+                    .navigationTitle("Launch Screens")
+            }
         }
 
     }
